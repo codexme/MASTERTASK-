@@ -44,9 +44,10 @@ src/
 ├── store/            # Zustand state management
 ├── types/            # TypeScript type definitions
 └── utils/            # Utility functions
-
 supabase/
 └── migrations/       # Database migrations
+
+
 Database Schema
 Core Tables
 users - User profiles and metadata
